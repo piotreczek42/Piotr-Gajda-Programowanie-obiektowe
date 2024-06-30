@@ -1,0 +1,6 @@
+miki;Individual;Bread;1;
+piotr;Individual;Cake;2;
+ktos;Individual;Cookies;3;
+marek;Individual;Cookies;4;
+ktos tam ktos;Company;Bread;5;
+asda;Individual;Bread;6;
